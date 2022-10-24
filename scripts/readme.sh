@@ -13,7 +13,7 @@ source ${SCRIPT_PATH}/lib/query_problem.sh
 function usage()
 {
 
-    echo -e "Usage: ${0} [file]"
+    echo -e "Usage: ${0} [e]"
     echo -e ""
     echo -e "Example:"
     echo -e ""
