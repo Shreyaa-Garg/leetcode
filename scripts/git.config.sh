@@ -4,7 +4,7 @@ set -e
 case $1 in
     -l) SCOPE="--local"
         ;;
-    -g) SCOPE="--global"
+    -g) SCOPE="--globa"
         ;;
     *) SCOPE="--local"
         ;;
