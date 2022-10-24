@@ -1,7 +1,6 @@
 // Source : https://oj.leetcode.com/problems/balanced-binary-tree/
 // Inspired by : http://www.jiuzhang.com/solutions/balanced-binary-tree/
 // Author : Lei Cao
-// Date   : 2015-10-07
 
 /**********************************************************************************
  *
