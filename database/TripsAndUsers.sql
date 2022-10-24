@@ -4,6 +4,5 @@ FROM Trips t
 INNER JOIN Users u 
 ON t.Client_Id = u.Users_Id
 WHERE u.Banned = 'No'
-AND t.Request_at >= '2013-10-01'
 AND t.Request_at <= '2013-10-03'
 GROUP BY t.Request_at
